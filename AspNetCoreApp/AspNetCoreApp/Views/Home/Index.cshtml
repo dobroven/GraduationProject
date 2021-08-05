@@ -1,0 +1,13 @@
+﻿@model HomeViewModel
+
+
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Dish dish in Model.AvailableDishes)
+        {
+            @Html.Partial("AllDishes", dish)
+        }
+    }
+</div>
+
+

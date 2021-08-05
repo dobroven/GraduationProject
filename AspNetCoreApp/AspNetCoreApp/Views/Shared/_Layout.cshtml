@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+    <title>Доставка еды</title>
+
+    <link rel="stylesheet" href="~/css/animate.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/aos.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+
+    <link rel="stylesheet" href="~/fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="~/css/style.css">
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+<body>
+    <header role="banner">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="/">Доставка еды</a>
+
+                <div class="collapse navbar-collapse" id="navbarsExample05">
+                    <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/">Главная</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Категории</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown04">
+                                <a class="dropdown-item" href="/Dishes/List/pizza">Пицца</a>
+                                <a class="dropdown-item" href="/Dishes/List/rolls">Роллы</a>
+                                <a class="dropdown-item" href="/Dishes/List/desserts">Десерты</a>
+                                <a class="dropdown-item" href="/Dishes/List/drinks">Напитки</a>
+                                <a class="dropdown-item" href="/Dishes/List/snacks">Закуски</a>
+                                <a class="dropdown-item" href="/Dishes/List/salads">Салаты</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Dishes/List">Полный ассортимент</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/RestaurantCart/">Корзина</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="slider-wrap">
+        <section class="home-slider owl-carousel">
+
+            <div class="slider-item" style="background-image: url('img/hero_1.jpg');">
+
+                <div class="container">
+                    <div class="row slider-text align-items-center justify-content-center">
+                        <div class="col-md-8 text-center col-sm-12 ">
+                            <h1 data-aos="fade-up">Добро пожаловать в наш ресторан!</h1>
+                            <p class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                                Доставка роллов в Белгороде от нашей ресторана - это вкуснейшие роллы, изысканные салаты, головокружительные десерты и, конечно же, пицца и напитки.
+                                Концепция ресторана "подразумевает доставку еды в Белгороде ресторанного качества по доступным ценам на дом и в офис. Вне зависимости от того, что вы закажете, мы будем рады подарить Вам кусочек своего мнения о настоящем качественном сервисе доставки роллов в Белгороде.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-item" style="background-image: url('img/hero_2.jpg');">
+                <div class="container">
+                    <div class="row slider-text align-items-center justify-content-center">
+                        <div class="col-md-8 text-center col-sm-12 ">
+                            <h1 data-aos="fade-up">Бесплатная доставка!</h1>
+                            <p class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                                Доставка роллов в Белгороде осуществляется собственной службой экспресс-доставки, поэтому мы можем Вам гарантировать максимально быструю доставку еды до двери вашего дома и офиса. Оплату заказа можно совершить наличными или банковской картой. У наших курьеров всегда есть сдача при наличном расчете!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </div>
+
+    <section class="section bg-light py-5  bottom-slant-gray">
+        <div class="container mt-5">
+            @RenderBody()
+        </div>
+    </section>
+
+        <footer class="site-footer" role="contentinfo">
+            <div class="container">
+                <div class="row mb-5">
+                    <div class="col-md-4 mb-5">
+                        <h3>О нас</h3>
+                        <p class="mb-5">Идея создания ресторана заключается в том, чтобы показать – качественная и вкусная кухня, приятная обстановка не обязательно должны сопровождаться высокими ценами за сервис. Это ресторан с доступными ценами, который порадует безупречным качеством блюд, отличным обслуживанием, а также располагающим к отдыху и общению интерьером.</p>
+                        <ul class="list-unstyled footer-link d-flex footer-social">
+                            <li><a href="#" class="p-2"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#" class="p-2"><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#" class="p-2"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5 mb-5">
+                        <div class="mb-5">
+                            <h3>Режим работы</h3>
+                            <p><strong class="d-block font-weight-normal text-black">Пн-Чт: 12:00 - 00:00</strong> Пт-Вс: 12:00 - 01:00</p>
+                        </div>
+                        <div>
+                            <h3>Контакты</h3>
+                            <ul class="list-unstyled footer-link">
+                                <li class="d-block">
+                                    <span class="d-block text-black">Адрес:</span>
+                                    <span>г. Белгород, ул. Первая, 1</span>
+                                </li>
+                                <li class="d-block"><span class="d-block text-black">Телефон:</span><span>+7 (4722) 11-11-11</span></li>
+                                <li class="d-block"><span class="d-block text-black">Email:</span><span>pervii2021@mail.ru</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 text-md-center text-left">
+                        <p>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> | Все права защищены (нет)
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <script src="~/js/bootstrap.min.js"></script>
+        <script src="~/js/jquery-3.6.0.min.js"></script>
+
+        <script src="~/js/popper.min.js"></script>
+        <script src="~/js/owl.carousel.min.js"></script>
+        <script src="~/js/jquery.waypoints.min.js"></script>
+        <script src="~/js/aos.js"></script>
+        <script src="~/js/jquery.magnific-popup.min.js"></script>
+        <script src="~/js/magnific-popup-options.js"></script>
+
+        <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.deps.json
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.json
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.dev.json
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.pdb
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csprojAssemblyReference.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfoInputs.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfo.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorTargetAssemblyInfo.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.pdb
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.Views.dll
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.Views.pdb
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.TagHelpers.input.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.TagHelpers.output.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorCoreGenerate.cache
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorTargetAssemblyInfo.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.Views.pdb
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csproj.CopyComplete
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Dishes\List.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AllDishes.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\RestaurantCart\Index.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Папка временного пользователя\Проги\AspNetCoreApp\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Complete.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.deps.json
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.json
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.runtimeconfig.dev.json
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.pdb
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.Views.dll
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\bin\Debug\netcoreapp2.1\AspNetCoreApp.Views.pdb
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csprojAssemblyReference.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorAssemblyInfo.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfoInputs.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.AssemblyInfo.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.TagHelpers.input.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.TagHelpers.output.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorCoreGenerate.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Dishes\List.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Complete.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\RestaurantCart\Index.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AllDishes.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorTargetAssemblyInfo.cache
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.RazorTargetAssemblyInfo.cs
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.Views.pdb
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.dll
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.pdb
+C:\Папка временного пользователя\Учёба\AspNetCoreApp - копия\AspNetCoreApp\obj\Debug\netcoreapp2.1\AspNetCoreApp.csproj.CopyComplete

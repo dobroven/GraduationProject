@@ -1,0 +1,19 @@
+﻿@model RestaurantCartViewModel
+
+
+    <section class="section pt-5 top-slant-white2 relative-higher">
+        <div class="container">
+            <div class="row align-items-center mb-5">
+                @foreach (var element in Model.restaurantCart.ListRestaurantItems)
+                {
+                <div class="alert alert-warning mt-3">
+                    <b>Блюдо:</b> @element.Dish.Name
+                    <b>Цена:</b> @element.Dish.Price.ToString("c")
+                    <img class="img-thumbnail" src="@element.Dish.Image" width="200" height="200"/>
+                </div>
+                }
+                <hr />
+                <a class="btn btn-danger" asp-controller="Order" asp-action="Checkout">Оплатить</a>
+            </div>
+        </div>
+    </section>
